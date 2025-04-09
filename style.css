@@ -33,6 +33,7 @@ font-size: 15px;
 line-height: 15px;
 letter-spacing: 0.92px;
 text-transform: uppercase;
+cursor: pointer;
 
 }
 
@@ -219,8 +220,14 @@ gap: 100px;
     margin-top: 10px;
 }
 
+.logo_menu > ul > li {
+    cursor: pointer;
+}
+
 .svg_footer {
     margin-top: 5px;
+
+    cursor: pointer;
 }
 
 
